@@ -1,8 +1,8 @@
 
  function MudaDesenho(){
-    const texto = document.querySelector("h1");
-    const texto2 = document.querySelector("h2");
-    const imagem = document.querySelector("img");
+    const texto = document.querySelector('#streetfighter');
+    const texto2 = document.querySelector('#valorant');
+    const imagem = document.querySelector('#minecraft');
     const valor = document.querySelector('#valor').value;
     
     if((valor=="gemeos") || (valor=="Gemeos")){

@@ -6,10 +6,9 @@
     text-decoration: none;
 }
 
- 
 body{
-    background-image: url("/troca_de_imagem_input/img/fundo5.png");
-    background-repeat: no-repeat;
+    background-image: url("/troca_de_imagem_input/img/stars-wallpaper.gif");
+    
     background-size:cover;
     margin: 0px;
     padding: 0px;
